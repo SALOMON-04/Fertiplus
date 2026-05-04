@@ -107,4 +107,4 @@ FertiPlus est né en Côte d'Ivoire avec l'ambition de s'étendre à l'échelle 
 
 ## Auteur
 
-Projet conçu et développé avec passion pour améliorer l'accès à la santé reproductive en Afrique et dans le monde.
+Projet conçu N'GORAN ATCHIELOH SALOMON REGIS et développé avec passion pour améliorer l'accès à la santé reproductive en Afrique et dans le monde.
