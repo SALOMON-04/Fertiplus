@@ -126,6 +126,7 @@ nav ul {
 
     .burger {
         display: flex;
+        margin-top: 8%;
     }
 
     #mainNav {

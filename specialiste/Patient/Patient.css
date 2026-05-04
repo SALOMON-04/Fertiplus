@@ -123,6 +123,7 @@ nav ul{
 
     .burger {
         display: flex;
+        margin-bottom: 3%;
     }
 
     #mainNav {
@@ -1115,8 +1116,8 @@ nav ul{
     }
 
     header img {
-        width: 120%;
-        height: 120%;
+        width: 30%;
+        height: 30%;
     }
 
     .historique-item .bleue{

@@ -142,6 +142,7 @@ nav ul li a:hover i {
 
     .burger {
         display: flex;
+        margin-bottom: 3%;
     }
 
     #mainNav {
