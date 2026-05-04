@@ -819,6 +819,8 @@ nav ul {
 @media (max-width: 480px) {
 
     header {
+        display: flex;
+        justify-content: space-between;
         padding: 8px 4%;
     }
 
