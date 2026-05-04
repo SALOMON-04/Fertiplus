@@ -1114,6 +1114,11 @@ nav ul{
         width: 85%;
     }
 
+    header img {
+        width: 120%;
+        height: 120%;
+    }
+
     .historique-item .bleue{
         width: 1%;
     }
