@@ -45,7 +45,7 @@ header img {
 nav ul {
     display: flex;
     align-items: center;
-    margin-top: 10%;
+    margin-top: 8%;
     gap: 30px;
     list-style: none;
     transform: translate(-5%);
