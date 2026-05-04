@@ -51,7 +51,7 @@ Les professionnels de santé disposent d'un espace dédié avec :
 - un tableau de bord pour gérer leurs consultations et patients,
 - un accès rapide à leur espace professionnel.
 
-### 💬 Consultation en ligne
+### 💬 Consultation
 FertiPlus permet aux patients de :
 
 - prendre rendez-vous avec un spécialiste en fertilité,
